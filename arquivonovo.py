@@ -7,3 +7,4 @@ def twoSun(tabela,target):
         for temp in range(i+1, tabela):
             if(tabela[i]+ tabela[temp] == target):
                 return(i, temp)
+#tudo errado
